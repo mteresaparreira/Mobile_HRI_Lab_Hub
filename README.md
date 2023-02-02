@@ -1,21 +1,6 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
+
 Teresa's-Lab-Hub
-=======
-# Mobile-HRI-Lab-Hub
->>>>>>> 0d8b2c3fb256cf1928a3a5998806b653662cd1e4
-=======
-# Teresa's-Lab-Hub
->>>>>>> 7d417da0d5d93d5c0277210c5730b71e3889ad3a
-for [Mobile_HRI_Design](https://github.com/FAR-Lab/Mobile_HRI_Design)
 
-Please place links here to the README.md's for each of your labs here:
-
-[Lab 0. Mobile Robot Bootcamp](Lab0/Readme.md)
-
-<<<<<<< HEAD
-[Lab 1. Interaction First](Lab1/Readme.md)
-=======
 **List 5 questions you have about ROS following the tutorial, answers you have found and things you still don't get**
 
 - What is the basic structure of ROS?
@@ -34,8 +19,8 @@ Apparently, yes, but it's still not clear to me
 It was a great first introduction to ROS, really! Not too advanced, but practical enough to give us a good understanding of the structure of ROS.
 
 
-Lab 1. Interaction First
->>>>>>> 7d417da0d5d93d5c0277210c5730b71e3889ad3a
+[Lab 1. Interaction First](Lab1/Readme.md)
+
 
 [Lab 2. Prototype the Robot](Lab2/Readme.md)
 
