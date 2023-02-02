@@ -1,6 +1,8 @@
 
 # Teresa's-Lab-Hub
 
+[Lab 0. Mobile Robot Bootcamp](Lab0/Readme.md)
+
 **List 5 questions you have about ROS following the tutorial, answers you have found and things you still don't get**
 
 - What is the basic structure of ROS?
