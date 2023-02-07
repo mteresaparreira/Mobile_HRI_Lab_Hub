@@ -15,6 +15,7 @@ For this week's lab (and also the following week), you will work in groups of 3.
 2. To work in a group of 3 (encouraged) or 4 people (if necessary).
 
 \*\***^^^ List the names and NetID for your partners above. ^^^**\*\*
+
 Maria Teresa Parreira (mb2554), Pratul Tandon (pt347), Trevor Morcott (trm75)
 
 ### Update your personal lab repo
@@ -74,7 +75,7 @@ Leverage the possible motions of Clonebot and the extra degree of freedom provid
 
 \*\***Describe your setting, players, activity and goals here.**\*\*
 
-**STORYBOARDS **
+**STORYBOARDS**
 
 **Scenario 1: Identifying wet floors and warning people**
 
@@ -82,7 +83,7 @@ Leverage the possible motions of Clonebot and the extra degree of freedom provid
 2. **Players:**
     1. Resident walking out of the building
     2. 3x ConeBot - wet floor warning specialist
-3. **Activity: **
+3. **Activity:**
     3. Resident is walking out of the elevator into the building lobby where the floor has been cleaned recently, so it is wet and slippery
     4. ConeBots are surrounding the wet portion of the floor to warn people not to slip
     5. When the person approaches the zone, one of the cones intercepts the person and directs them around it
@@ -98,7 +99,7 @@ Leverage the possible motions of Clonebot and the extra degree of freedom provid
     1. A student trying to find a seat at the library
     2. ConeBot - librarian extraordinaire
     3. Inactive participants (students at other tables)
-3. **Activity: **
+3. **Activity:**
     4. The robot is directing students to tables in the library
     5. A student walks in looking for a desk to work on
     6. The robot approaches the student and guides them to a free seat, moving silently across the library
@@ -113,7 +114,7 @@ Leverage the possible motions of Clonebot and the extra degree of freedom provid
     1. Victims awaiting assistance
     2. EmergencyBot - rescue specialist
     3. Paramedics/Firefighters
-3. **Activity: **
+3. **Activity:**
     4. The EmergencyBot stands near the most urgent victims in need of assistance
     5. The paramedics attend to the victim
     6. The robot moves to a new victim (next on the priority list)
@@ -122,14 +123,14 @@ Leverage the possible motions of Clonebot and the extra degree of freedom provid
     8. EmergencyBot: Quickly and efficiently guide firefighters/paramedics to unattended victims
     9. Firefighters/Paramedics: find the victims that need assistance more urgently and that have not been assisted
 
-**Scenario 4: Phone charger bot **
+**Scenario 4: Phone charger bot**
 
 1. **Setting:** This scene takes place in a college library at a table. A person is studying when their phone suddenly dies. 
 2. **Players:**
     1. Student
     2. ChargeBot - power banking extraordinaire
     3. Inactive participants (students with charged phones)
-3. **Activity: **
+3. **Activity:**
     4. The student is studying in the library diligently going over ROS software. All of a sudden, disaster strikes and their phones die
     5. The ChargeBot hears the students' pleas and comes to the rescue with a loanable phone charger for them to use
 4. **Goals**:
@@ -143,7 +144,7 @@ Leverage the possible motions of Clonebot and the extra degree of freedom provid
 2. **Players:**
     1. A bored student that wants to explore the library.
     2. BouncerBot (guarding the door)
-3. **Activity: **
+3. **Activity:**
     3. A graduate student is exploring the library and finds the door to the “rare book section”.
     4. BouncerBot is guarding the door.
     5. The student approaches the door and the robot moves to stop their progress.
@@ -158,7 +159,19 @@ Leverage the possible motions of Clonebot and the extra degree of freedom provid
 
 \*\***Include pictures of your storyboards here**\*\*
 
+**Scenario 1**
+![scenario1](https://user-images.githubusercontent.com/62056130/217375224-812c91e0-48b9-4fd1-9fda-4bc680ad6229.png)
 
+**Scenario 2**
+![scenario2](https://user-images.githubusercontent.com/62056130/217375368-552a5200-5b66-47eb-984a-c439758c8685.jpg)
+
+**Scenario 3**
+![scenario3](https://user-images.githubusercontent.com/62056130/217375419-9746095e-38c5-4493-9d1f-6543bf393c79.png)
+
+**Scenario 4**
+![scenario4](https://user-images.githubusercontent.com/62056130/217375446-cbb63c9e-c0ee-4657-9847-2fc3740aaec6.jpg)
+
+**Scenario 5**
 
 
 
