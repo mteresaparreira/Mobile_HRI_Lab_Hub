@@ -1,5 +1,5 @@
 # Interaction First
-\*\***List the names and NetID for your partners here.**\*\*
+\*\***Maria Teresa Parreira (mb2554), Pratul Tandon (pt347), Trevor Morcott (trm75)**\*\*
 
 In this lab, you will modify a robotic creature (ConeBot) that is originally designed by [Dr. Rei Lee](https://infosci.cornell.edu/~reilee/), a friend of our lab. The [ConeBot](https://infosci.cornell.edu/~reilee/ConeBot/) is a shy robot that hides under a small traffic cone. It is adventuring the world by itself but hopes people don't notice it at all.
 
@@ -15,6 +15,7 @@ For this week's lab (and also the following week), you will work in groups of 3.
 2. To work in a group of 3 (encouraged) or 4 people (if necessary).
 
 \*\***^^^ List the names and NetID for your partners above. ^^^**\*\*
+Maria Teresa Parreira (mb2554), Pratul Tandon (pt347), Trevor Morcott (trm75)
 
 ### Update your personal lab repo
 1.  Log in to your github, go to `YourGithubUsername/Mobile_HRI_Lab_Hub/`. 
@@ -73,9 +74,92 @@ Leverage the possible motions of Clonebot and the extra degree of freedom provid
 
 \*\***Describe your setting, players, activity and goals here.**\*\*
 
-Storyboards are a tool for visually exploring a users interaction with a device. They are a fast and cheap method to understand user flow, and iterate on a design before attempting to build on it. Take some time to read through this explanation of [storyboarding in UX design](https://www.smashingmagazine.com/2017/10/storyboarding-ux-design/). Sketch five storyboards of the interactions you are planning. **It does not need to be perfect**, but must get across the behavior of the CloneBot and the other characters in the scene. 
+**STORYBOARDS **
+
+**Scenario 1: Identifying wet floors and warning people**
+
+1. **Setting:** Building Lobby
+2. **Players:**
+    1. Resident walking out of the building
+    2. 3x ConeBot - wet floor warning specialist
+3. **Activity: **
+    3. Resident is walking out of the elevator into the building lobby where the floor has been cleaned recently, so it is wet and slippery
+    4. ConeBots are surrounding the wet portion of the floor to warn people not to slip
+    5. When the person approaches the zone, one of the cones intercepts the person and directs them around it
+    6. The cones move as the wet floor is drying
+4. **Goals:**
+    7. Resident: Leave their building without slipping
+    8. ConeBots: Prevent injuries while minimizing inconvenience to residents
+
+**Scenario 2: Direct people to the closest available desk in a library**
+
+1. **Setting:** Library at a university
+2. **Players:**
+    1. A student trying to find a seat at the library
+    2. ConeBot - librarian extraordinaire
+    3. Inactive participants (students at other tables)
+3. **Activity: **
+    4. The robot is directing students to tables in the library
+    5. A student walks in looking for a desk to work on
+    6. The robot approaches the student and guides them to a free seat, moving silently across the library
+4. **Goals:**
+    7. Student: Find a seat at the library
+    8. ConeBots: Quickly and efficiently guide students to seats at the library while minimizing any inconvenience to other students studying already.
+
+**Scenario 3: Help identify unattended victims in a crisis scenario**
+
+1. **Setting**: A crisis scenario (collapsed building on fire) with multiple victims in need of assistance
+2. **Players**:
+    1. Victims awaiting assistance
+    2. EmergencyBot - rescue specialist
+    3. Paramedics/Firefighters
+3. **Activity: **
+    4. The EmergencyBot stands near the most urgent victims in need of assistance
+    5. The paramedics attend to the victim
+    6. The robot moves to a new victim (next on the priority list)
+4. **Goals:**
+    7. Victims: get assistance
+    8. EmergencyBot: Quickly and efficiently guide firefighters/paramedics to unattended victims
+    9. Firefighters/Paramedics: find the victims that need assistance more urgently and that have not been assisted
+
+**Scenario 4: Phone charger bot **
+
+1. **Setting:** This scene takes place in a college library at a table. A person is studying when their phone suddenly dies. 
+2. **Players:**
+    1. Student
+    2. ChargeBot - power banking extraordinaire
+    3. Inactive participants (students with charged phones)
+3. **Activity: **
+    4. The student is studying in the library diligently going over ROS software. All of a sudden, disaster strikes and their phones die
+    5. The ChargeBot hears the students' pleas and comes to the rescue with a loanable phone charger for them to use
+4. **Goals**:
+    6. Student: keep studying without heading back to their dorm to grab their phone charger
+    7. ChargeBots: Find students who might need a charger, deliver one to them, while not being disruptive to other students
+
+
+**Scenario 5: Keeping people from entering places they are not supposed to**
+
+1. **Setting:** This scene takes place in the same library, where there is a “rare book section” with restricted access. 
+2. **Players:**
+    1. A bored student that wants to explore the library.
+    2. BouncerBot (guarding the door)
+3. **Activity: **
+    3. A graduate student is exploring the library and finds the door to the “rare book section”.
+    4. BouncerBot is guarding the door.
+    5. The student approaches the door and the robot moves to stop their progress.
+    6. Student (confused) moves left then right exploring why the robot keeps moving in front of them.
+    7. Student finally realizes it is guarding something and then walks away.
+4. **Goals:**
+    8. Student: just wants to explore.
+    9. BouncerBots: prevent unauthorized personel from entering a restricted area
+
+
+
 
 \*\***Include pictures of your storyboards here**\*\*
+
+
+
 
 
 ## Part C. Act out the Interaction
