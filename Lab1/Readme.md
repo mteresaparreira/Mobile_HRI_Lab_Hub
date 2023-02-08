@@ -172,6 +172,7 @@ Leverage the possible motions of Clonebot and the extra degree of freedom provid
 ![scenario4](https://user-images.githubusercontent.com/62056130/217375446-cbb63c9e-c0ee-4657-9847-2fc3740aaec6.jpg)
 
 **Scenario 5**
+![scenario5](https://user-images.githubusercontent.com/62056130/217426036-c9d37aa1-407b-43f9-bc7c-3889f2bd3c1d.PNG)
 
 
 
@@ -179,9 +180,17 @@ Leverage the possible motions of Clonebot and the extra degree of freedom provid
 
 Select 3 of the 5 storyboards to act out. Try physically enacting the 3 interactions you planned with your teammates. (Do not plug in the CloneBot just yet.) Record these video clips, and submit them (Unlisted Youtube links are fine).
 
+Video here: https://drive.google.com/file/d/1FOQmerEaD2auYyprDs9FO398vi1e65Fd/view?usp=sharing
+
 \*\***Are there things that seemed better on paper than acted out?**\*\*
 
 \*\***Are there new ideas that occur to you or your collaborators that come up from the acting?**\*\*
+
+-->  *We enjoyed storyboarding and acting out these scenarios. We ended up acting out the scenarios 2, 4, and 5.* 
+
+*Scenario 2 and 4 were situated in a library. This limited the communication we could use for the robot because libraries are typically quiet. For the robot that guided students to their seat, we found it interesting to brainstorm methods that could be used to indicate a free seat. We ended up going with a pointing gesture, even though we don’t envision the robot itself as anthropomorphic. We had a similar challenge for Scenario 4, which was the ChargerBot that also operates in a library. Here, our critical interaction was to figure out how the user would summon the bot, since calling out loud in a library would not be viable.*
+
+*The challenge for Scenario 5 was a bit different. Intercepting a human and preventing them from entering a room is mechanically straightforward, but it’s less clear how to best communicate with the human being interacted with. We ended up going with a white-board like design where the entire robot is a giant message board. The inspiration for this was the large boards on highways which display warning messages for drivers. Overall, the challenge here was making sure communication is unambiguous. From a practical point of view, we realize the scenarios we video are a bit far-fetched, but since we were able to act them out with a bit of creativity, we believe an implementation is within the realm of possibility.On the other hand, we weren’t able to video two other scenarios we thought were really interesting, because they involved disaster and risk scenarios. One of our takeaways was that experimental design and testing for robots in an emergency response setting is really challenging, even though robots could be very useful in such situations!*
 
 
 ## Your Weekly Dose of ROS
