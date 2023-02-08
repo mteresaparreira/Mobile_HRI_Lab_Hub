@@ -1,5 +1,5 @@
 # Interaction First
-\*\***Maria Teresa Parreira (mb2554), Pratul Tandon (pt347), Trevor Morcott (trm75)**\*\*
+\*\***Pratul Tandon (pt347), Trevor Morcott (trm75), Maria Teresa Parreira (mb2554)**\*\*
 
 In this lab, you will modify a robotic creature (ConeBot) that is originally designed by [Dr. Rei Lee](https://infosci.cornell.edu/~reilee/), a friend of our lab. The [ConeBot](https://infosci.cornell.edu/~reilee/ConeBot/) is a shy robot that hides under a small traffic cone. It is adventuring the world by itself but hopes people don't notice it at all.
 
@@ -160,18 +160,23 @@ Leverage the possible motions of Clonebot and the extra degree of freedom provid
 \*\***Include pictures of your storyboards here**\*\*
 
 **Scenario 1**
+
 ![scenario1](https://user-images.githubusercontent.com/62056130/217375224-812c91e0-48b9-4fd1-9fda-4bc680ad6229.png)
 
 **Scenario 2**
+
 ![scenario2](https://user-images.githubusercontent.com/62056130/217375368-552a5200-5b66-47eb-984a-c439758c8685.jpg)
 
 **Scenario 3**
+
 ![scenario3](https://user-images.githubusercontent.com/62056130/217375419-9746095e-38c5-4493-9d1f-6543bf393c79.png)
 
 **Scenario 4**
+
 ![scenario4](https://user-images.githubusercontent.com/62056130/217375446-cbb63c9e-c0ee-4657-9847-2fc3740aaec6.jpg)
 
 **Scenario 5**
+
 ![scenario5](https://user-images.githubusercontent.com/62056130/217426036-c9d37aa1-407b-43f9-bc7c-3889f2bd3c1d.PNG)
 
 
