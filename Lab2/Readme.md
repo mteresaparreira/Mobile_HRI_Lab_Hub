@@ -41,8 +41,7 @@ In the reflections, we would have liked to see more on what worked or didn't wor
 
 SassyBot is a mobile robot stylist. It provides advice and feedback on a fit for clients visiting a store. It can also be used as a personal stylist – so, instead of being store-adjacent, it would be person-adjacent. It takes into account personal preferences and different styles. Its mobility and sensors make it a valuable asset to the shopping experience.
 
-![Image from iOS](https://user-images.githubusercontent.com/62056130/218633020-a3af698d-d95d-4001-bd9e-344ea7c7468e.jpg)
-
+![bloomingdales](https://user-images.githubusercontent.com/62056130/218634565-2a5185c1-2909-4ddb-89ad-196866c99d8b.png)
 
 Bloomingdales Fitting Room (on Roosevelt Island) or other clothing stores
 
@@ -53,15 +52,15 @@ SassyBot provides valuable advice for customers. It can react to customer fits, 
 \*\***What issues or opportunities arise from the site and activities?**\*\*
 
 Issues:
-*How the robot will see the person
-*How the robot will avoid other people
-*Where the robot will be stowed and interact
-*.How to shoot and try the scene while respecting those in the store
+* How the robot will see the person
+* How the robot will avoid other people
+* Where the robot will be stowed and interact
+* How to shoot and try the scene while respecting those in the store
 
 Opportunities:
-*Potentially ask real people
-*See what the real dimensions of the room will be
-*Explore opportunities to incorporate into existing features like the mirror 
+* Potentially ask real people
+* See what the real dimensions of the room will be
+* Explore opportunities to incorporate into existing features like the mirror 
 
 ## Part C. Costume the robot
 
@@ -91,17 +90,22 @@ Approachable, cute and assertive as it handles sensitive and personal moments / 
 
 ![IMG_2660](https://user-images.githubusercontent.com/62056130/218634312-5c85c19c-4bf8-4d1d-9a67-415d1bb2dfcc.jpg)
 
+https://user-images.githubusercontent.com/62056130/218634702-2cba9921-ba1a-4293-b5eb-a42b59ad8a76.MOV
+
+
 
 \*\***Show the follow-up work here.**\*\*
 
-We worked on the costume and tested the mobility of the robot (see video in section C)
+We worked on the costume and tested the mobility of the robot.
 
 ## Part E. Record
 
 \*\***Take videos of your prototyped interaction.**\*\*
+
 Videos:
-*https://drive.google.com/file/d/1bNEm5A9bAg4D4mWtCYiNBxggJiruMrLF/view?usp=sharing
-*https://drive.google.com/file/d/1T1b1bhXN4YpdWVYOtz7X_f2uslF33JUz/view?usp=sharing -- full interaction, on site
+
+* https://drive.google.com/file/d/1bNEm5A9bAg4D4mWtCYiNBxggJiruMrLF/view?usp=sharing
+* https://drive.google.com/file/d/1T1b1bhXN4YpdWVYOtz7X_f2uslF33JUz/view?usp=sharing -- full interaction, on site
 
 \*\***Please mention anyone else you collaborated with on this Lab.**\*\*
 
@@ -110,6 +114,7 @@ Videos:
 
 
 Reflection
-*On reflection it was very difficult to film in the store.  This was due to the fact that the robot got in the way, others did not want a robot near their room while they were changing and the swinging doors would have decapitated Edna if she were not more visible.
-*Additionally we noticed how you really wanted to feel seen by the robot and it was annoying if she passed judgment without a good look.  
-*It was also frustrating there was no way to interrogate the bots' decisions and ask why or why not they reacted a certain way.
+
+* On reflection it was very difficult to film in the store. This was due to the fact that the robot got in the way, others did not want a robot near their room while they were changing and the swinging doors would have decapitated Edna if she were not more visible.
+* Additionally we noticed how you really wanted to feel seen by the robot and it was annoying if she passed judgment without a good look.  
+* It was also frustrating there was no way to interrogate the bots' decisions and ask why or why not they reacted a certain way.
