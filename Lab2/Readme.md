@@ -71,6 +71,9 @@ Pick one of the custumes and make it with paper or cardboard or any other materi
 \*\***Include sketches of what your robot might look like here.**\*\*
 
 ![Image from iOS](https://user-images.githubusercontent.com/62056130/218633133-2d665f44-fc0a-4ead-b31c-232310666733.jpg)
+![0001](https://user-images.githubusercontent.com/62056130/218635376-4b5c20d2-8e47-4b32-be9b-e4e074b2e53a.jpg)
+![0002](https://user-images.githubusercontent.com/62056130/218635410-3bc43166-993f-4020-8fac-d5f414c6cfb4.jpg)
+
 
 \*\***Include photos of your costumed robot here.**\*\*
 
