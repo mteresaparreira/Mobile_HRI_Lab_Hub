@@ -26,7 +26,7 @@ It was a great first introduction to ROS, really! Not too advanced, but practica
 
 [Lab 2. Prototype the Robot](Lab2/Readme.md)
 
-Lab 3. Make the Robot Move
+[Lab 3. Make the Robot Move](Lab3/Readme.md)
 
 Lab 4. Make the Robot See
 
