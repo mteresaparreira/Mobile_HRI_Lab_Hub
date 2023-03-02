@@ -30,7 +30,9 @@ It was a great first introduction to ROS, really! Not too advanced, but practica
 
 [Lab 4. Make the Robot See](Lab4/Readme.md)
 
-Lab 5. Give the Robot Moves
+[Final Project Proposal](Final_Project_Proposal/Readme.md)
+
+[Lab 5. Give the Robot Moves](Lab5/Readme.md)
 
 Lab 6. Choreographing Movement
 
