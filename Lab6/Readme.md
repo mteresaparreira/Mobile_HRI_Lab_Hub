@@ -104,6 +104,12 @@ To visualize your LiDAR reading, open foxglove studio in vnc viewer. Then, click
 
 https://user-images.githubusercontent.com/62056130/226578749-254951e4-9c08-4a73-a72d-0ea4f99b5582.MOV
 
+
+
+https://user-images.githubusercontent.com/62056130/228691598-1f682a38-d69c-4e7d-a432-fffcb24e855d.MOV
+
+
+
 2. A sketch of a series movements based on your final project
 
 ![CamScanner 03-21-2023 11 05](https://user-images.githubusercontent.com/62056130/226578561-a3961db8-a3f3-4331-94df-c88dc0366a10.jpg)
