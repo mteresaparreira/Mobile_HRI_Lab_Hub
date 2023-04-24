@@ -1,7 +1,7 @@
 # Interact with with people + chatty robot
 
 
-**List the names and NetID for your partners here.**
+Pratul Tandon (pt347), Trevor Morcott (trm75), Maria Teresa Parreira (mb2554)
 
 
 In this lab, let's try out some moves with our robots and make them talk!
