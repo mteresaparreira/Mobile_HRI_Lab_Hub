@@ -125,7 +125,22 @@ Be mindful of the others around you. Be safe.
 5. A video sketch of your designed interaction
 6. Videos trying out elicited verbal interaction
 
+Sketching the interactions:
 
+![lab7-1_1](https://user-images.githubusercontent.com/62056130/233893872-e02ea471-a2d9-45b4-88d5-ffe5c9b04b2e.jpg)
+![lab7-1_2](https://user-images.githubusercontent.com/62056130/233893870-1d1a0368-3637-44e9-b291-60e40a076c29.jpg)
+
+
+The robot structure:
+https://user-images.githubusercontent.com/62056130/233901186-72923dcc-ff2b-435b-980f-936baa9f93e0.mp4
+
+An interaction:
+https://user-images.githubusercontent.com/62056130/233902280-1f63b8c7-80c6-4cbc-8513-e91344fe6a47.mp4
+https://user-images.githubusercontent.com/62056130/233902288-8ef66ad1-85be-47d8-b137-549a30583a50.mp4
+
+
+An interaction with sound:
+https://user-images.githubusercontent.com/62056130/233902188-b8ad4657-fc08-41ab-a312-965d0ba1398a.mp4
 
 
 
