@@ -1,5 +1,6 @@
 # Final Project Planning
-**List the names and NetID for your partners here.**
+
+Pratul Tandon (pt347), Trevor Morcott (trm75), Maria Teresa Parreira (mb2554)
 
 
 Welcome back! Hope you had a relaxing Feburary break. We missed you. 

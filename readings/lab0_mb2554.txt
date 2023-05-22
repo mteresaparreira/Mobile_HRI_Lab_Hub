@@ -1,7 +1,0 @@
-While I found this week's reading informative, I got stuck in a specific part of Bartneck et al.'s "Research Methods" chapter:
-
-"In *robot-centered work*, the research focus might be on developing the technical capabilities that robots need to interact with people, or testing different aspects of the robot’s functionality or design to see which are most effective. In *user-centered work*, on the other hand, the focus of a study could be on understanding aspects of human behavior or cognition that will affect the success of HRI. For instance, an extroverted user might prefer more direct communication by the robot, whereas an introverted user might like indirect communication."
-
-As a social robotics researcher myself, I find that the user is always at the center of HRI work. The outcomes of any research that concerns contexts where robots interact with humans, even if only tangentially, need to take into account the effect of the robot's behavior on the humans. Efficiency and effectiveness of the tasks are contigent on how users perceive the interaction, both in terms of subjective perception of the robot, but also usability, adaptability, etc.. 
-
-So, while research may focus more on developing robot behavior, or getting the robot to complete a physical task, the user will always have to be on-the-loop. 

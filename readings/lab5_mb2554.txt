@@ -1,7 +1,0 @@
-The topic for this week's readings - what should be the role of a helper robot in human-robot collaboration - made me think of a concept which I recently saw being explored in HRI, that of intelligent disobedience. This concept encompasses the idea that the robot may "fail" - that is, not comply with humans' instructions or commands - if justified by other circumstances.  Bringing us back to Asimov's "laws of robotics":
-
-    A robot may not injure a human being or, through inaction, allow a human being to come to harm.
-    A robot must obey orders given it by human beings except where such orders would conflict with the First Law.
-    A robot must protect its own existence as long as such protection does not conflict with the First or Second Law.
-
-If a robot is "ordered" to do something which violates notions of safety, for example, the robot may need to disobey (e.g., submarine robot is exploring a pool ground and a child jumps in the pool right in front of the robot, forcing the robot to stop, rather than continue with the commanded task). I think it's very interesting to think about this in cases of human-robot collaboration, namely what are the effects on human trust of the robot.

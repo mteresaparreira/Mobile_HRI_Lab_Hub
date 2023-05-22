@@ -1,6 +1,0 @@
-While  I have dabbled into the world of HRI research, even conducting my own studies, I never before had to be confronted with the challenge of designing a robot, or specific behaviors in a robot. This week’s readings, both the technical and the methodological, are resources that I will save for future research, as they provide important information.
-
-The hardware side is something that I am completely unfamiliar with, except that I understand that it can be one of the biggest bottlenecks when running research studies. Other methods mentioned in Hoffman 14’ are also new to me, even if I have been applying them already in our lab sessions - sketching the interactions and video prototyping. Usually, I think that active discussion with colleagues is a great method for improving a design -  the questions “why this and not that?”, “what if x?” are pivotal to identifying gaps in planning that could be harmful to the experiment or robot design.
-
-Another thing that may fit into the video prototyping genre is running pilot/exploratory studies. Pilots are *so* pertinent when it comes to ensuring that a study runs smoothly. Testing the protocol, the materials, etc, can provide really insightful information. This class is slowly changing my view on the value of ethnographic studies.
-
