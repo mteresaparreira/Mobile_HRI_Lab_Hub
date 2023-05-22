@@ -38,6 +38,9 @@ It was a great first introduction to ROS, really! Not too advanced, but practica
 
 [Lab 7 + 8. Finding People to Interact with + Chatty Robot](Lab7/Readme.md)
 
+[Optional Material.](Optional_Material/Readme.md)
+
+
 Final Project
 
 
